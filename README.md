@@ -25,6 +25,8 @@ A classe `ProfessorConst` contém strings `JSON` que representam informações s
 
 Para executar os testes, basta executar a classe `TesteBuscaProfessor` em um ambiente de desenvolvimento que suporte a execução de testes JUnit.
 
+---
+
 ### Resultados Esperados
 Os testes verificam se a busca de professores retorna os resultados esperados, se as salas e prédios são obtidos corretamente e se erros são tratados de forma apropriada.
 Foram desenvolvidos 10 casos de sucesso e 10 casos de falha.
